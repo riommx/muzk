@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "681696689269",
+    "project_id": "muzk-project",
+    "storage_bucket": "muzk-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681696689269:android:6005939accd868442d4c3c",
+        "android_client_info": {
+          "package_name": "com.example.muzk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681696689269-pc89rts0oc67dj2n1mf7qb5e9ohka1jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPBhcT8A6kywbDSMXdQmoSi9rRMIufHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681696689269-pc89rts0oc67dj2n1mf7qb5e9ohka1jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681696689269-b5m8r61raomhv10ch0j1ma2b4hjcetil.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.muzk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
